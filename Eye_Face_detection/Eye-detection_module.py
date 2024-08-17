@@ -1,7 +1,5 @@
  
 import cv2
-import pandas as pd
-import dlib 
 
 Video = cv2.VideoCapture(0)
 
